@@ -17,6 +17,3 @@ Class Controller_errors Extends Controller {
 	}
 
 }
-
-
-?>

@@ -24,5 +24,4 @@ ob_start();
 //запускаем роутер
 $router=new Router();
 $router->start();
-?>
 		

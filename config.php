@@ -15,4 +15,3 @@ define('CONTROLLER_PATH', SITE_PATH . 'controllers' . DS);////путь до фа
 define('VIEW_PATH', SITE_PATH . 'views' . DS); //путь до файлов вьюх
 define('TPL_PATH', SITE_PATH . 'tpl' . DS); //путь до файлов шаблонов
 define('DEBUG', true); //включить/выключить отображение ошибок
-?>
